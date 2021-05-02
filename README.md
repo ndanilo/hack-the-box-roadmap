@@ -3,13 +3,13 @@ roadmap for initial appriach in hack the box challenges
 
 ### First Metas:
 
-[ ] Root a Retired Easy Box
-[ ] Root a Retired Medium Box
-[ ] Root an Active Box
-[ ] Complete an Easy Challenge
-[ ] Share a Walkthrough of a Retired Box
-[ ] Complete Offensive Academy Modules
-[ ] Root Live Medium/Hard Boxes
-[ ] Complete A Track
-[ ] Win a Hack The Box Battlegrounds Battle
-[ ] Complete A Pro Lab
+1. [ ] Root a Retired Easy Box
+2. [ ] Root a Retired Medium Box
+3. [ ] Root an Active Box
+4. [ ] Complete an Easy Challenge
+5. [ ] Share a Walkthrough of a Retired Box
+6. [ ] Complete Offensive Academy Modules
+7. [ ] Root Live Medium/Hard Boxes
+8. [ ] Complete A Track
+9. [ ] Win a Hack The Box Battlegrounds Battle
+10. [ ] Complete A Pro Lab
