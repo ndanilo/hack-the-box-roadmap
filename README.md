@@ -3,8 +3,8 @@ roadmap for initial appriach in hack the box challenges
 
 ### First Metas:
 
-1. [ ] Root a Retired Easy Box
-2. [ ] Root a Retired Medium Box
+1. [] Root a Retired Easy Box
+2. [] Root a Retired Medium Box
 3. [ ] Root an Active Box
 4. [ ] Complete an Easy Challenge
 5. [ ] Share a Walkthrough of a Retired Box
